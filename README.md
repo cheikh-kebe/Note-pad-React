@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Note-pad made on React as a side project for the Hacking Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
