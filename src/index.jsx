@@ -7,6 +7,7 @@ import './index.css'
 
 
 const App = () => {
+  
   const [notes, setNotes] = React.useState( localStorage.notes ? JSON.parse(localStorage.notes) : []);
   const [activeNote, setActiveNote] = React.useState(false)
 
